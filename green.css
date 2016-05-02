@@ -1,0 +1,9 @@
+body {
+    background-color: rgba(50, 255, 0, 0.3);
+}
+#header {
+    background-color: rgba(25, 125, 0, 0.4);
+}
+#footer {
+    background-color: rgba(25, 125, 0, 0.4);
+}
